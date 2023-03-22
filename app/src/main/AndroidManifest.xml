@@ -24,6 +24,9 @@
         </activity>
 
         <activity android:name=".Uyg1Activity" android:label="@string/uyg1"></activity>
+        <activity android:name=".uyg10.uyg10" android:label="@string/uyg10"></activity>
+        <activity android:name=".uyg11.uyg11" android:label="@string/uyg11"></activity>
+
     </application>
 
 </manifest>
